@@ -1,0 +1,13 @@
+:root{
+    --yellow:#FFD700;	
+
+}
+
+.line{
+    background-color: var(--yellow);
+    width: 415px;
+    height: 2px;
+    margin: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
