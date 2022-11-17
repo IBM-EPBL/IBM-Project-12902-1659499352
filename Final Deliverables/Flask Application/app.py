@@ -19,7 +19,7 @@ from sendmailer import *
 
 
 # Upload model
-model = load_model(r'testing/Updated-Xception-diabetic-retinopathy.h5')
+model = load_model(r'Updated-Xception-diabetic-retinopathy.h5')
 
 
 # Define a flask app   
